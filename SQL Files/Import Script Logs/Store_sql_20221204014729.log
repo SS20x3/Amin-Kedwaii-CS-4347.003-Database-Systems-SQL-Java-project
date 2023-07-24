@@ -1,0 +1,12 @@
+12/3/2022 7:47:29 PM	This log contains information about the import operation of the script 'Store.sql' into project 'Database1' on computer 'DESKTOP-IBFKA2Q' by user'Amin Kedwaii.
+12/3/2022 7:47:29 PM	Started importing file: C:\Users\Amin Kedwaii\source\repos\Database1\Database1\Store.sql 
+12/3/2022 7:47:29 PM	File name C:\Users\Amin Kedwaii\source\repos\Database1\Database1\Store.sql (size: 306)
+12/3/2022 7:47:30 PM	Parsing import script
+12/3/2022 7:47:30 PM	Total number of batches in script: 1
+12/3/2022 7:47:30 PM	Total number of statements in script: 1
+12/3/2022 7:47:30 PM	The script was successfully imported into the project.
+12/3/2022 7:47:30 PM	Analyzing schema objects...
+12/3/2022 7:47:30 PM	Scanning project for duplicate elements
+12/3/2022 7:47:30 PM	Finished duplicate element processing
+12/3/2022 7:47:30 PM	A summary of the import was saved to the following location: C:\Users\Amin Kedwaii\source\repos\Database1\Database1\Import Script Logs\Store_sql_20221204014729.log
+12/3/2022 7:47:30 PM	Click Finish to continue...
